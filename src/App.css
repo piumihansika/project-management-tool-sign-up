@@ -1,0 +1,91 @@
+#signup{width:100%}
+#signup{height:$height;} 
+
+#buttons{
+    height:100px;
+    background:#2c3e50;
+
+}
+#buttons > p {
+    width:250px;
+    float:right;
+    color:rgb(248, 250, 142);
+    text-align:center;
+    padding-top:25px;
+    height:75%;
+    margin:0;
+    
+}
+
+#signup-button{
+    width:250px;
+}
+
+#buttons > p:hover{
+    background:rgb(251, 255, 4))
+    cursor:pointer;
+}
+#signup > input, #signup > button{
+    margin-top:20px;
+    margin-left:105px;
+    height:25px;
+    border:none;
+    border-radius:2px;}
+#first,#last,#phone,#confirm{
+    width:250px;
+    margin-left:6px;
+    
+}
+
+#email{
+    width:250px;
+    margin-left:6px;
+    
+}
+
+#password{
+    width:250px;
+    margin-left:6px !important;
+    
+}
+
+
+  
+  #h1{
+    color: rgb(250, 249, 253);
+    text-align: center;
+    background-color:rgb(red, green, rgb(2, 2, 51)) 
+
+  
+  
+  }
+  
+  #signup{
+    text-align: center;
+    width:250px;
+  }
+  
+  
+  .form-horizontal{
+      align:center;
+  }
+  
+  
+  
+  
+  body{
+   background-image:url("img7.png");
+   background-position: center;
+   background-size: cover;
+   
+  }
+  
+  .App-header {
+   background-color:rgb(3, 3, 73);
+   height: 75px;
+   padding: 20px;
+   color: white;
+   font-style:italic;
+   
+  }
+
